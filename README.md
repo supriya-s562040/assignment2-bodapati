@@ -30,7 +30,7 @@ The table belows the name of the country , reasons and no.of days
 # Pithy Quotes
 > Mathematicians deal with large numbers sometimes,but never in their income
 
-*-*Isaac Asimov
+*-Isaac Asimov*
 > Live for today and let tomorrow come later 
 
-*-*Michele
+*-Michele*
