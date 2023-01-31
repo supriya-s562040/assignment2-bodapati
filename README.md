@@ -25,3 +25,12 @@ The table belows the name of the country , reasons and no.of days
 |Sydney| gorgeous beaches | 15 |
 |Singapore| futurstic bridges | 20 |
 |London| pretty pink restaurants | 25 |
+
+-----
+# Pithy Quotes
+> Mathematicians deal with large numbers sometimes,but never in their income
+
+*-*Isaac Asimov
+> Live for today and let tomorrow come later 
+
+*-*Michele
