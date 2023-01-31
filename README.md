@@ -20,7 +20,7 @@ It is one of the sports involving anaerobic activity as well as great enjoyment 
 # The table shows as countries to visit
 The table belows the name of the country , reasons and no.of days
 | name of country | reason | no.of days |
-|---|---|--- :|
+|---|---|---:|
 |Ireland| Kerry's  mountains| 10 |
 |Sydney| gorgeous beaches | 15 |
 |Singapore| futurstic bridges | 20 |
