@@ -34,3 +34,17 @@ The table belows the name of the country , reasons and no.of days
 > Live for today and let tomorrow come later 
 
 *-Michele*
+
+-----
+
+# Html code
+> Truncate Strings with Ellipis < https://stackoverflow.com/questions/1199352/smart-way-to-truncate-long-strings>
+```
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+```
+code <https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/>
